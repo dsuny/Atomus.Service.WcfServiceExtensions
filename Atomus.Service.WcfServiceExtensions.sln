@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomus.Service.WcfServiceExtensions(dotNet)", "dotNet\Atomus.Service.WcfServiceExtensions(dotNet).csproj", "{2A612B3A-ADAA-4F71-A177-722FCBA4E96A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A612B3A-ADAA-4F71-A177-722FCBA4E96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A612B3A-ADAA-4F71-A177-722FCBA4E96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A612B3A-ADAA-4F71-A177-722FCBA4E96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A612B3A-ADAA-4F71-A177-722FCBA4E96A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06DBA952-FFBF-48EB-9E7F-47969D39A159}
+	EndGlobalSection
+EndGlobal
